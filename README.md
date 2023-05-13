@@ -11,3 +11,6 @@
 - Next and previous buttons -> the user to move to the next or previous track in the list.
 
 - This program provides a simple and intuitive way for users to play music files using Python.
+ 
+  ![Screenshot 2023-05-13 202210](https://github.com/abhiramsannidhi/CodeClause_Music_Player/assets/113664369/845840c5-6e2a-4cd0-8cc0-880d738920df)
+
