@@ -5,10 +5,9 @@
 
 - The program utilizes the Pygame mixer to play the music files, and Tkinter to create the graphical user interface. It also utilizes the os and random libraries to load music files and shuffle the tracklist, respectively.
 
+- Browse button -> To browse the music files.
 - Play button -> the program plays the current track in the list. 
 - Pause button -> pauses the currently playing track. 
-- Next and previous buttons -> the user to move to the next or previous track in the list. 
-- Add button -> enables the user to add new music files to the list.
-- Shuffle button -> shuffles the order of the tracks in the list and plays the first track.
+- Next and previous buttons -> the user to move to the next or previous track in the list.
 
 - This program provides a simple and intuitive way for users to play music files using Python.
